@@ -10,3 +10,5 @@ Uh...No screenshots because I'm too lazy to take them.
 ## Remarks：
 If you want to experience other web browsers developed using EPL, you can use Aurora Studio's WebWorld browser, but it will show an exception at high DPI, please adjust the compatibility, the official website of the software: https://aurorast.top/webworld (Chinese page, no English, please use the translation tool to visit)
 Just to be clear, the source code needs to be opened with EPL 5.9 (China version:易语言) or higher or there will be an exception
+## Thanks:
+Aurora Studio
