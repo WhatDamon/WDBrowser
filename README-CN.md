@@ -1,6 +1,6 @@
 语言Language:[中文Chinese](https://github.com/WhatDamon/WDBrowser/blob/master/README-CN.md)、[英文English](https://github.com/WhatDamon/WDBrowser/blob/master/README.md)
 # What Damon Browser - WD浏览器
-使用 DYWT 的 EPL 开发的网页浏览器（选择C++的原因是没有EPL选项，并且易语言本身基于C++）
+使用大有吴涛的易语言开发的网页浏览器（选择C++的原因是没有EPL（易语言）选项，并且易语言本身基于C++开发的）
 ## 优点：
 轻量级，支持Flash，简单易用
 ## 缺点：
