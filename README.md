@@ -17,6 +17,7 @@ Of course, you can also use Flysoft's [XNorth browser](https://flysoft.js.org/XN
 For some reasons, the software will be seriously delayed, and the source code of the warehouse may have to wait to move
 Just to be clear, the source code needs to be opened with EPL 5.9 (China version:易语言) or higher or there will be an exception
 ## Thanks:
+
 Support: [Aurora Studio](https://aurorast.top)
 Module: [125](https://bbs.125.la)
 Technology: [MiniBlink](https://miniblink.net)
