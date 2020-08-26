@@ -21,5 +21,5 @@ Just to be clear, the source code needs to be opened with EPL 5.9 (China version
 Support: [Aurora Studio](https://aurorast.top)
 Module: [125](https://bbs.125.la)
 Technology: [MiniBlink](https://miniblink.net)
-=====================================================================================
-Translation tools:DeepL & Google
+
+#### This Page Translation tools:DeepL & Google
