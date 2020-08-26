@@ -17,6 +17,7 @@
 因为一些原因，该软件将严重拖更，该仓库的源码可能要再等移动
 在声明一下，源码需要使用易语言5.9以上的版本打开，否则会有异常
 ## 感谢：
+
 支持：[Aurora Studio](https://aurorast.top)
 模块：[精易](https://bbs.125.la)
 技术：[MiniBlink](https://miniblink.net)
